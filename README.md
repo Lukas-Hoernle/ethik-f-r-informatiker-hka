@@ -1,0 +1,1 @@
+# ethik-f-r-informatiker-hka
