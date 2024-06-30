@@ -1,4 +1,4 @@
-"# Einführung in den EU AI Act
+# Einführung in den EU AI Act
 
 ## Inhaltsverzeichnis
 
@@ -345,4 +345,4 @@ Der EU AI Act stellt einen bedeutenden Schritt zur Regulierung von KI-Technologi
 
 #### 6.4.2 Ausblick
 
-Langfristig bietet der EU AI Act die Möglichkeit, eine sichere und verantwortungsvolle Nutzung von KI in der EU zu fördern. Durch die kontinuierliche Weiterentwicklung der Vorschriften und die Zusammenarbeit mit internationalen Partnern kann die EU ihre Position als führender Akteur im Bereich KI stärken. Die erfolgreiche Umsetzung des Acts erfordert die Zusammenarbeit aller Beteiligten, einschließlich Gesetzgeber, Aufsichtsbehörden, Unternehmen und der Zivilgesellschaft."
+Langfristig bietet der EU AI Act die Möglichkeit, eine sichere und verantwortungsvolle Nutzung von KI in der EU zu fördern. Durch die kontinuierliche Weiterentwicklung der Vorschriften und die Zusammenarbeit mit internationalen Partnern kann die EU ihre Position als führender Akteur im Bereich KI stärken. Die erfolgreiche Umsetzung des Acts erfordert die Zusammenarbeit aller Beteiligten, einschließlich Gesetzgeber, Aufsichtsbehörden, Unternehmen und der Zivilgesellschaft.
