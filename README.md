@@ -11,11 +11,11 @@
 
 ## 1. Einleitung
 
-Der EU AI Act wurde 2021 als Entwurf vorgestellt und 2024 in seiner endgültigen Form verabschiedet. Ziel dieses Gesetzesrahmens ist die Schaffung einer einheitlichen und sicheren Grundlage für die Entwicklung und Anwendung von KI in der EU. Der Act soll sicherstellen, dass KI-Systeme sicher, transparent und ethisch vertretbar eingesetzt werden. Diese Einführung gibt einen Überblick über die Notwendigkeit und Ziele des EU AI Acts.
+Der EU AI Act trat 2024 in Kraft und zielt darauf ab, einheitliche Standards für die Entwicklung und Nutzung von KI in der EU zu etablieren. Der Act soll KI-Systeme vertrauenswürdig und menschenzentriert machen, Innovationen fördern und grenzüberschreitende Anwendungen ermöglichen. Ein zentraler Aspekt ist die Schaffung eines gemeinsamen Marktes für KI in Europa, um die Wettbewerbsfähigkeit der EU auf dem globalen KI-Markt zu stärken. Gleichzeitig sollen Risiken minimiert und Grundrechte, insbesondere Datenschutz und Sicherheit, geschützt werden.
 
 ### Einführung in den EU AI Act
 
-Der EU AI Act trat 2024 in Kraft und zielt darauf ab, einheitliche Standards für die Entwicklung und Nutzung von KI in der EU zu etablieren. Der Act soll KI-Systeme vertrauenswürdig und menschenzentriert machen, Innovationen fördern und grenzüberschreitende Anwendungen ermöglichen. Ein zentraler Aspekt ist die Schaffung eines gemeinsamen Marktes für KI in Europa, um die Wettbewerbsfähigkeit der EU auf dem globalen KI-Markt zu stärken. Gleichzeitig sollen Risiken minimiert und Grundrechte, insbesondere Datenschutz und Sicherheit, geschützt werden.
+Der EU AI Act zielt darauf ab, einheitliche Standards für die Entwicklung und Nutzung von KI in der EU zu etablieren. Er soll KI-Systeme vertrauenswürdig und menschenzentriert machen, Innovationen fördern und grenzüberschreitende Anwendungen ermöglichen. Ein zentraler Aspekt ist die Schaffung eines gemeinsamen Marktes für KI in Europa, um die Wettbewerbsfähigkeit der EU auf dem globalen KI-Markt zu stärken. Gleichzeitig sollen Risiken minimiert und Grundrechte, insbesondere Datenschutz und Sicherheit, geschützt werden.
 
 > "Der EU AI Act zielt darauf ab, einheitliche Standards für die Entwicklung und Nutzung von KI in der EU zu etablieren. Er soll KI-Systeme vertrauenswürdig und menschenzentriert machen, Innovationen fördern und grenzüberschreitende Anwendungen ermöglichen." (M. Schaub, "The EU AI Act: A Model for Global AI Regulation?")
 
