@@ -3,42 +3,43 @@
 ## Inhaltsverzeichnis
 # 1. Einleitung
 
-Der EU AI Act wurde erstmals 2021 als Entwurf vorgestellt und 2024 in seiner endgültigen Form verabschiedet. Ziel dieses Gesetzesrahmens ist es, eine einheitliche und sichere Grundlage für die Entwicklung und Anwendung künstlicher Intelligenz (KI) in der Europäischen Union zu schaffen. Der EU AI Act stellt sicher, dass KI-Systeme sicher, transparent und ethisch vertretbar eingesetzt werden. Diese Einführung gibt einen Überblick über die Notwendigkeit und die Ziele des EU AI Acts.
+Der EU AI Act, erstmals 2021 als Entwurf vorgestellt und 2024 verabschiedet, zielt darauf ab, eine einheitliche und sichere Grundlage für die Entwicklung und Anwendung künstlicher Intelligenz (KI) in der EU zu schaffen. Er stellt sicher, dass KI-Systeme sicher, transparent und ethisch vertretbar eingesetzt werden.
 
 ## Einführung in den EU AI Act (ca. 200 Wörter)
 
-Der erste Entwurf des EU AI Acts wurde 2021 vorgestellt, und die endgültige Version trat 2024 in Kraft. Dieser Rechtsrahmen zielt darauf ab, einheitliche Standards für die Entwicklung und Nutzung von KI in der EU zu etablieren. Der EU AI Act soll sicherstellen, dass KI-Systeme vertrauenswürdig und menschenzentriert sind und dabei Innovationen fördern sowie grenzüberschreitende Anwendungen ermöglichen. 
+Der EU AI Act, 2021 als Entwurf vorgestellt und 2024 in Kraft getreten, zielt darauf ab, einheitliche Standards für die KI-Entwicklung und -Nutzung in der EU zu etablieren. Er soll sicherstellen, dass KI-Systeme vertrauenswürdig und menschenzentriert sind und Innovationen sowie grenzüberschreitende Anwendungen fördern.
 
-Ein wesentlicher Aspekt des EU AI Acts ist die Schaffung eines gemeinsamen Marktes für KI in Europa. Durch die Harmonisierung der Regeln können Unternehmen ihre KI-Produkte und -Dienstleistungen leichter in verschiedenen Mitgliedstaaten anbieten, was die Wettbewerbsfähigkeit der EU auf dem globalen KI-Markt stärkt. Gleichzeitig sollen durch den EU AI Act Risiken minimiert und Grundrechte geschützt werden, insbesondere in Bezug auf Datenschutz, Sicherheit und die Vermeidung von Diskriminierung  .
+Ein wesentlicher Aspekt ist die Schaffung eines gemeinsamen Marktes für KI in Europa. Harmonisierte Regeln erleichtern Unternehmen das Anbieten von KI-Produkten und -Dienstleistungen in verschiedenen Mitgliedstaaten, stärken die Wettbewerbsfähigkeit der EU auf dem globalen KI-Markt und schützen Grundrechte, insbesondere Datenschutz, Sicherheit und Vermeidung von Diskriminierung.
 
 ## Notwendigkeit des EU AI Acts (ca. 200 Wörter)
 
-Die Notwendigkeit des EU AI Acts ergibt sich aus der zunehmenden Verbreitung und Bedeutung von KI-Technologien in verschiedenen Bereichen des täglichen Lebens und der Wirtschaft. Ohne eine klare gesetzliche Regelung könnten KI-Systeme erhebliche Risiken für die Grundrechte der Bürger darstellen, insbesondere in Bezug auf Datenschutz und Sicherheit. Zudem könnten unregulierte KI-Anwendungen zu Diskriminierung und sozialer Ungerechtigkeit führen.
+Die Notwendigkeit des EU AI Acts ergibt sich aus der zunehmenden Bedeutung von KI-Technologien. Ohne klare Regelung könnten KI-Systeme erhebliche Risiken für Grundrechte, insbesondere Datenschutz und Sicherheit, darstellen und zu Diskriminierung und sozialer Ungerechtigkeit führen.
 
-Ein weiteres Problem ist das Fehlen einheitlicher Regeln innerhalb der EU, was zu einem fragmentierten Rechtsrahmen und damit zu Unsicherheiten für Unternehmen führen könnte. Der EU AI Act zielt darauf ab, diese Lücken zu schließen und einen kohärenten, unionsweiten Rechtsrahmen zu schaffen. Dies ist besonders wichtig, da KI-Systeme zunehmend in sicherheitskritischen Bereichen wie dem Gesundheitswesen, der Strafverfolgung und der öffentlichen Verwaltung eingesetzt werden. Durch klare Vorgaben und Standards sollen diese Systeme sicher und vertrauenswürdig gestaltet werden .
+Fehlen einheitlicher Regeln innerhalb der EU führt zu einem fragmentierten Rechtsrahmen und Unsicherheiten für Unternehmen. Der EU AI Act zielt darauf ab, diese Lücken zu schließen und einen unionsweiten Rechtsrahmen zu schaffen, besonders wichtig für sicherheitskritische Bereiche wie Gesundheitswesen, Strafverfolgung und öffentliche Verwaltung.
 
 ## Ziele des EU AI Acts (ca. 200 Wörter)
 
-Der EU AI Act verfolgt mehrere zentrale Ziele. Erstens soll er die Entwicklung und Nutzung von KI-Systemen fördern, die sicher, transparent und ethisch vertretbar sind. Dies bedeutet, dass KI-Anwendungen den Schutz der Gesundheit und Sicherheit der Nutzer gewährleisten und negative Auswirkungen auf die Gesellschaft minimieren müssen. Zweitens soll der EU AI Act dazu beitragen, dass die Grundrechte der Bürger gewahrt bleiben, insbesondere in Bezug auf Datenschutz und Nichtdiskriminierung.
+Der EU AI Act hat mehrere zentrale Ziele: Förderung sicherer, transparenter und ethisch vertretbarer KI-Systeme, Schutz der Gesundheit und Sicherheit der Nutzer, Minimierung negativer gesellschaftlicher Auswirkungen sowie Wahrung der Grundrechte, insbesondere Datenschutz und Nichtdiskriminierung.
 
-Ein weiteres Ziel ist die Förderung von Innovation und Wettbewerbsfähigkeit der EU im globalen KI-Markt. Durch die Schaffung eines einheitlichen Rechtsrahmens werden Unternehmen ermutigt, in die Entwicklung und den Einsatz von KI zu investieren, was wiederum zu wirtschaftlichem Wachstum und technologischer Fortschritt führt. Schließlich soll der EU AI Act die Forschung und Entwicklung im Bereich der KI unterstützen, indem er klare Richtlinien und Standards setzt, die als Grundlage für die Schaffung neuer Technologien dienen .
+Ein weiteres Ziel ist die Förderung von Innovation und Wettbewerbsfähigkeit der EU im globalen KI-Markt. Der einheitliche Rechtsrahmen ermutigt Unternehmen zur Investition in KI, was zu wirtschaftlichem Wachstum und technologischem Fortschritt führt. Schließlich unterstützt der EU AI Act die Forschung und Entwicklung durch klare Richtlinien und Standards.
+
 # 2. Aufbau des EU AI Act
 
-Der EU AI Act ist in verschiedene Risikokategorien unterteilt, die den Einsatz von KI-Technologien regulieren. Die Risikobewertung erfolgt auf Basis der potenziellen Auswirkungen der KI-Systeme auf die Gesellschaft. Darüber hinaus beschreibt der EU AI Act die Mechanismen zur Durchsetzung der Regelungen, einschließlich der Bildung von Ausschüssen und Aufsichtsbehörden sowie der Einführung einer Datenbank für Hochrisiko-KI Systeme.
+Der EU AI Act unterteilt den Einsatz von KI-Technologien in verschiedene Risikokategorien basierend auf deren potenziellen gesellschaftlichen Auswirkungen. Er beschreibt auch Mechanismen zur Durchsetzung der Regelungen, einschließlich Ausschüssen, Aufsichtsbehörden und einer Datenbank für Hochrisiko-KI-Systeme.
 
 ## 2.1 Aufteilung in Risikokategorien
 
 ### 2.1.1 Unannehmbare Risiken (ca. 300 Wörter)
 
-Der EU AI Act definiert unannehmbare Risiken als Anwendungen, die ein hohes Risiko für die Grundrechte und die Sicherheit der Bürger darstellen. Solche Anwendungen sind in der Regel verboten. Dazu gehören beispielsweise Systeme zur Verhaltensbeeinflussung, die ohne Wissen und Einwilligung der betroffenen Personen eingesetzt werden, sowie Social Scoring Systeme, die das Verhalten oder die Eigenschaften von Personen bewerten und klassifizieren. Diese verbotenen Anwendungen können zu Diskriminierung und gesellschaftlicher Ungleichheit führen. Ausnahmen sind nur unter strengen Bedingungen erlaubt, beispielsweise wenn sie im öffentlichen Interesse liegen und durch nationale Gesetze geregelt sind. 
+Der EU AI Act definiert unannehmbare Risiken als Anwendungen, die hohe Risiken für Grundrechte und Sicherheit darstellen. Solche Anwendungen sind verboten, z.B. Systeme zur Verhaltensbeeinflussung ohne Einwilligung und Social Scoring Systeme. Ausnahmen sind nur unter strengen Bedingungen erlaubt. 
 
 Die strengen Vorschriften und Verbote sollen sicherstellen, dass die Grundrechte der Bürger gewahrt bleiben und missbräuchliche Anwendungen von KI verhindert werden. Dies trägt auch zur gesellschaftlichen Akzeptanz von KI bei, indem Vertrauen in die Technologie geschaffen wird.
 
 ### 2.1.2 Hohe Risiken (ca. 300 Wörter)
 
-Hohe Risiken umfassen KI-Anwendungen, die in Bereichen wie der kritischen Infrastruktur, dem Gesundheitswesen, der Strafverfolgung und dem Bildungswesen eingesetzt werden. Diese Systeme können erhebliche Auswirkungen auf das Leben der Menschen haben und unterliegen daher strengen Anforderungen. 
+Hohe Risiken umfassen KI-Anwendungen in kritischen Bereichen wie Infrastruktur, Gesundheitswesen, Strafverfolgung und Bildungswesen. Diese Systeme haben erhebliche Auswirkungen und unterliegen strengen Anforderungen.. 
 
-Zu den Anforderungen gehören umfangreiche Risiko-Management-Maßnahmen, regelmäßige Überprüfungen der Datenqualität und die Erstellung technischer Dokumentationen. Beispielsweise müssen KI-Systeme, die in medizinischen Geräten verwendet werden, genaue und zuverlässige Ergebnisse liefern, um die Sicherheit der Patienten zu gewährleisten. Ähnliche Anforderungen gelten für KI-Systeme in Fahrzeugen, die sicherheitsrelevante Entscheidungen treffen. 
+Zu den Anforderungen gehören Risiko-Management, regelmäßige Datenqualitätsüberprüfungen und technische Dokumentationen. Beispielsweise müssen KI-Systeme in medizinischen Geräten zuverlässige Ergebnisse liefern, um die Patientensicherheit zu gewährleisten. Ähnliche Anforderungen gelten für sicherheitsrelevante KI-Systeme in Fahrzeugen.
 
 Die Implementierung dieser Maßnahmen soll sicherstellen, dass hochriskante KI-Systeme sicher und zuverlässig sind und die Gesundheit und Sicherheit der Nutzer nicht gefährden.
 
