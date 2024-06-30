@@ -69,7 +69,7 @@ Allzweck-KI-Systeme, die vielseitig einsetzbar sind, unterliegen speziellen Anfo
 
 ### 2.2 Durchsetzen der Regelungen
 
-#### 2.2.1 Bildung von Ausschüssen und Aufsichtsbehörden
+#### 2.2.1 Bildung von Ausschüsssen und Aufsichtsbehörden
 
 Zur Durchsetzung der Regelungen wurden Ausschüsse und Aufsichtsbehörden eingerichtet. Der Europäische Ausschuss für KI (ECAI) und nationale Aufsichtsbehörden überwachen und setzen die Vorschriften durch. Sie haben Zugriff auf Dokumentationen und Daten von KI-Anbietern und können bei Verstößen Maßnahmen anordnen und Strafen verhängen. Die Effizienz dieser Strukturen wird kontinuierlich evaluiert.
 
