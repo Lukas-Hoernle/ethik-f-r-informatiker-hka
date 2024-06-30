@@ -151,25 +151,25 @@ Der EU AI Act legt detaillierte Regelungen für Hochrisiko-KI-Systeme fest, mit 
 
 Anbieter von Hochrisiko-KI-Systemen sind verpflichtet, umfassende Risikobewertungen durchzuführen. Dazu gehört die Analyse potenzieller Gefahren und ihrer Auswirkungen auf Nutzer und die Gesellschaft. Anbieter müssen außerdem Maßnahmen zur Risikominderung implementieren und regelmäßig überprüfen, um sicherzustellen, dass sie den aktuellen technischen und rechtlichen Anforderungen entsprechen. Detaillierte Dokumentationen über die Risikobewertungen und umgesetzten Maßnahmen sind erforderlich.
 
-> "Anbieter von Hochrisiko-KI-Systemen müssen umfassende Risikobewertungen durchführen und Maßnahmen zur Risikominderung implementieren."
+> "Anbieter von Hochrisiko-KI-Systemen müssen umfassende Risikobewertungen durchführen und Maßnahmen zur Risikominderung implementieren." Musch, Borrelli, and Kerrigan, 2023
 
 #### 4.1.2 Technische Dokumentation und Konformitätsbewertung
 
 Eine weitere wichtige Verpflichtung ist die Erstellung und Pflege technischer Dokumentationen. Diese müssen alle relevanten Informationen über das KI-System enthalten, einschließlich Entwicklung, Funktionsweise und Sicherheitsmerkmale. Anbieter müssen zudem eine Konformitätsbewertung durchführen, um die Übereinstimmung ihres Systems mit den festgelegten Anforderungen zu bestätigen. Diese Bewertung kann durch interne Audits oder unabhängige Dritte erfolgen.
 
-> "Anbieter von Hochrisiko-KI-Systemen müssen technische Dokumentationen erstellen und eine Konformitätsbewertung durchführen."
+> "Anbieter von Hochrisiko-KI-Systemen müssen technische Dokumentationen erstellen und eine Konformitätsbewertung durchführen." Musch, Borrelli, and Kerrigan, 2023
 
 #### 4.1.3 Transparenz und Benutzerinformationen
 
 Transparenz ist ein zentraler Aspekt des EU AI Acts. Anbieter von Hochrisiko-KI-Systemen müssen sicherstellen, dass Nutzer über die Funktionsweise des Systems und mögliche Risiken informiert sind. Dazu gehören klare und verständliche Benutzerhandbücher und Informationsmaterialien. Nutzer müssen über die spezifischen Funktionen und Einschränkungen des Systems aufgeklärt werden, sowie darüber, wie sie es sicher und effektiv nutzen können.
 
-> "Anbieter von Hochrisiko-KI-Systemen müssen sicherstellen, dass Nutzer über die Funktionsweise und mögliche Risiken informiert sind."
+> "Anbieter von Hochrisiko-KI-Systemen müssen sicherstellen, dass Nutzer über die Funktionsweise und mögliche Risiken informiert sind." Musch, Borrelli, and Kerrigan, 2023
 
 #### 4.1.4 Überwachung und Berichterstattung
 
 Anbieter von Hochrisiko-KI-Systemen sind verpflichtet, ihre Systeme kontinuierlich zu überwachen und regelmäßig Berichte über deren Leistung und Sicherheit zu erstellen. Diese Berichte müssen etwaige Abweichungen oder Sicherheitsprobleme dokumentieren und der zuständigen Aufsichtsbehörde vorgelegt werden. Bei sicherheitsrelevanten Vorfällen müssen Anbieter unverzüglich Maßnahmen ergreifen und die Nutzer sowie die Aufsichtsbehörde informieren.
 
-> "Anbieter von Hochrisiko-KI-Systemen müssen ihre Systeme kontinuierlich überwachen und regelmäßig Berichte erstellen."
+> "Anbieter von Hochrisiko-KI-Systemen müssen ihre Systeme kontinuierlich überwachen und regelmäßig Berichte erstellen." Musch, Borrelli, and Kerrigan, 2023
 
 ### 4.2 Anforderungen an Transparenz und Sicherheit
 
@@ -177,37 +177,37 @@ Anbieter von Hochrisiko-KI-Systemen sind verpflichtet, ihre Systeme kontinuierli
 
 Die Transparenzanforderungen des EU AI Acts stellen sicher, dass die Funktionsweise und Entscheidungsprozesse von Hochrisiko-KI-Systemen für Nutzer nachvollziehbar sind. Anbieter müssen klare und verständliche Informationen über die verwendeten Algorithmen und Daten bereitstellen. Diese Informationen sollten leicht zugänglich und verständlich präsentiert werden, um das Vertrauen der Nutzer in KI-Systeme zu stärken und ihre Akzeptanz zu erhöhen.
 
-> "Die Transparenzanforderungen des EU AI Acts stellen sicher, dass die Funktionsweise und Entscheidungsprozesse von Hochrisiko-KI-Systemen für Nutzer nachvollziehbar sind."
+> "Die Transparenzanforderungen des EU AI Acts stellen sicher, dass die Funktionsweise und Entscheidungsprozesse von Hochrisiko-KI-Systemen für Nutzer nachvollziehbar sind." Musch, Borrelli, and Kerrigan, 2023
 
 #### 4.2.2 Sicherheitsanforderungen
 
-Die Sicherheitsanforderungen zielen darauf ab, die Integrität und Zuverlässigkeit von Hochrisiko-KI-Systemen zu gewährleisten. Anbieter müssen robuste Sicherheitsmaßnahmen implementieren, um physische und digitale Bedrohungen abzuwehren. Dazu gehören die Verschlüsselung sensibler Daten, der Schutz vor Cyberangriffen und die regelmäßige Überprüfung und Aktualisierung der Sicherheitsprotokolle. Außerdem müssen Anbieter ihre Systeme vor Manipulationen und Missbrauch schützen.
+Die Sicherheitsanforderungen zielen darauf ab, die Integrität und Zuverlässigkeit von Hochrisiko-KI-Systemen zu gewährleisten. Anbieter müssen robuste Sicherheitsmaßnahmen implementieren, um physische und digitale Bedrohungen abzuwehren. Dazu gehören der Schutz vor Cyberangriffen, die regelmäßige Überprüfung und Aktualisierung der Sicherheitsprotokolle sowie der Schutz vor Manipulationen und Missbrauch.
 
-> "Die Sicherheitsanforderungen des EU AI Acts zielen darauf ab, die Integrität und Zuverlässigkeit von Hochrisiko-KI-Systemen zu gewährleisten."
+> "Die Sicherheitsanforderungen des EU AI Acts zielen darauf ab, die Integrität und Zuverlässigkeit von Hochrisiko-KI-Systemen zu gewährleisten." Musch, Borrelli, and Kerrigan, 2023
 
 #### 4.2.3 Datenqualität und -verwaltung
 
-Der EU AI Act fordert, dass die in Hochrisiko-KI-Systemen verwendeten Daten genau, vollständig und repräsentativ sind. Anbieter müssen sicherstellen, dass ihre Daten frei von Verzerrungen und Fehlern sind, um die Zuverlässigkeit und Genauigkeit der Systeme zu gewährleisten. Dazu gehört die Implementierung von Mechanismen zur kontinuierlichen Überwachung und Verbesserung der Datenqualität, sowie die Einrichtung von Verfahren zur ordnungsgemäßen Erfassung, Speicherung und Verarbeitung von Daten.
+Der EU AI Act fordert, dass die in Hochrisiko-KI-Systemen verwendeten Daten genau, vollständig und repräsentativ sind. Anbieter müssen sicherstellen, dass ihre Daten frei von Verzerrungen und Fehlern sind, um die Zuverlässigkeit und Genauigkeit der Systeme zu gewährleisten. Dazu gehört die Implementierung von Mechanismen zur kontinuierlichen Überwachung und Verbesserung der Datenqualität sowie die Einrichtung ordnungsgemäßer Verfahren zur Erfassung, Speicherung und Verarbeitung von Daten.
 
-> "Der EU AI Act fordert, dass die in Hochrisiko-KI-Systemen verwendeten Daten genau, vollständig und repräsentativ sind."
+> "Der EU AI Act fordert, dass die in Hochrisiko-KI-Systemen verwendeten Daten genau, vollständig und repräsentativ sind." Musch, Borrelli, and Kerrigan, 2023
 
 #### 4.2.4 Verantwortlichkeit und Rechenschaftspflicht
 
 Anbieter von Hochrisiko-KI-Systemen müssen sicherstellen, dass ihre Systeme in Übereinstimmung mit ethischen und rechtlichen Standards betrieben werden. Dazu gehört die Verpflichtung zur Verantwortlichkeit und Rechenschaftspflicht gegenüber Nutzern und der Gesellschaft. Anbieter müssen klare Zuständigkeiten und Verantwortlichkeiten festlegen und sicherstellen, dass alle Beteiligten ihre Aufgaben kennen. Außerdem müssen Mechanismen zur Überprüfung und Bewertung der Einhaltung der Vorschriften eingerichtet werden, um das Vertrauen in die KI-Systeme zu stärken und ihre ethische Nutzung zu fördern.
 
-> "Anbieter von Hochrisiko-KI-Systemen müssen sicherstellen, dass ihre Systeme in Übereinstimmung mit ethischen und rechtlichen Standards betrieben werden."
+> "Anbieter von Hochrisiko-KI-Systemen müssen sicherstellen, dass ihre Systeme in Übereinstimmung mit ethischen und rechtlichen Standards betrieben werden." Musch, Borrelli, and Kerrigan, 2023
 
 ### 4.3 Zusammenfassung der Regelungen
 
-Die Regelungen des EU AI Acts für Hochrisiko-KI-Systeme sind umfassend und detailliert. Sie zielen darauf ab, die Sicherheit und Zuverlässigkeit der Systeme zu gewährleisten und das Vertrauen der Nutzer zu stärken. Durch die strengen Anforderungen an Transparenz und Sicherheit können potenzielle Risiken frühzeitig erkannt und gemindert werden. Die Verpflichtungen für Anbieter umfassen Risikobewertungen, technische Dokumentationen, kontinuierliche Überwachung und Berichterstattung, sowie die Einhaltung hoher Standards in Bezug auf Transparenz und Sicherheit.
+Die Regelungen des EU AI Acts für Hochrisiko-KI-Systeme sind umfassend und detailliert. Sie zielen darauf ab, die Sicherheit und Verlässlichkeit der Systeme zu gewährleisten und das Vertrauen der Nutzer zu stärken. Durch die strengen Anforderungen an Transparenz und Sicherheit können potenzielle Risiken frühzeitig erkannt und gemindert werden. Die Verpflichtungen für Anbieter umfassen Risikobewertungen, technische Dokumentationen, kontinuierliche Überwachung, Berichterstattung und die Einhaltung hoher Standards.
 
-> "Die Regelungen des EU AI Acts für Hochrisiko-KI-Systeme sind umfassend und detailliert."
+> "Die Regelungen des EU AI Acts für Hochrisiko-KI-Systeme sind umfassend und detailliert." Musch, Borrelli, and Kerrigan, 2023
 
 ### 4.3.2 Langfristige Perspektiven
 
 Langfristig könnten die Regelungen des EU AI Acts dazu beitragen, eine sichere und verantwortungsvolle Nutzung von KI-Technologien in der EU zu fördern. Durch die Schaffung eines klaren und einheitlichen Rechtsrahmens können Anbieter ihre Systeme besser planen und optimieren, was zu technologischen Durchbrüchen und einer stärkeren Integration von KI in den Alltag führen könnte. Außerdem könnte der Act als Vorbild für die internationale Regulierung von KI dienen und die Harmonisierung globaler Standards vorantreiben.
 
-> "Langfristig könnten die Regelungen des EU AI Acts dazu beitragen, eine sichere und verantwortungsvolle Nutzung von KI-Technologien in der EU zu fördern."
+> "Langfristig könnten die Regelungen des EU AI Acts dazu beitragen, eine sichere und verantwortungsvolle Nutzung von KI-Technologien in der EU zu fördern." Musch, Borrelli, and Kerrigan, 2023
 
 ## 5. Überwachung und Durchsetzung des EU AI Act
 
