@@ -39,47 +39,47 @@ Der EU AI Act ist in verschiedene Risikokategorien unterteilt, die den Einsatz v
 
 #### 2.1.1 Unannehmbare Risiken
 
-Der Act definiert unannehmbare Risiken als Anwendungen, die Grundrechte und die Sicherheit der Bürger gefährden. Solche Anwendungen sind verboten und umfassen z.B. Verhaltensbeeinflussung ohne Wissen der Betroffenen und Social Scoring. Ausnahmen sind unter strengen Bedingungen möglich, z.B. im öffentlichen Interesse. Die strengen Vorschriften sollen Grundrechte wahren und missbräuchliche Anwendungen verhindern, um gesellschaftliche Akzeptanz von KI zu fördern.
+Der Act definiert unannehmbare Risiken als Anwendungen, die Grundrechte und die Sicherheit der Bürger gefährden. Solche Anwendungen sind verboten und umfassen z. B. Verhaltensbeeinflussung ohne Wissen der Betroffenen und Social Scoring. Ausnahmen sind unter strengen Bedingungen möglich, z. B. im öffentlichen Interesse. Die strengen Vorschriften sollen Grundrechte wahren und missbräuchliche Anwendungen verhindern, um gesellschaftliche Akzeptanz von KI zu fördern.
 
-> "Unannehmbare Risiken, wie Verhaltensbeeinflussung ohne Wissen der Betroffenen und Social Scoring, sind verboten."
+> "Unannehmbare Risiken, wie Verhaltensbeeinflussung ohne Wissen der Betroffenen und Social Scoring, sind verboten." Musch, Borrelli, and Kerrigan, 2023
 
 #### 2.1.2 Hohe Risiken
 
 Hohe Risiken umfassen KI-Anwendungen in kritischer Infrastruktur, Gesundheitswesen, Strafverfolgung und Bildung. Diese Systeme unterliegen strengen Anforderungen, darunter Risikomanagement, Datenqualitätskontrollen und technische Dokumentationen. Beispielsweise müssen KI-Systeme in medizinischen Geräten genaue und zuverlässige Ergebnisse liefern. Die Maßnahmen sollen sicherstellen, dass hochriskante KI-Systeme sicher und zuverlässig sind und die Gesundheit von Nutzern nicht gefährden.
 
-> "Hohe Risiken, wie KI-Anwendungen in kritischer Infrastruktur, Gesundheitswesen, Strafverfolgung und Bildung, unterliegen strengen Anforderungen, darunter Risikomanagement, Datenqualitätskontrollen und technische Dokumentationen."
+> "Hohe Risiken, wie KI-Anwendungen in kritischer Infrastruktur, Gesundheitswesen, Strafverfolgung und Bildung, unterliegen strengen Anforderungen, darunter Risikomanagement, Datenqualitätskontrollen und technische Dokumentationen." Musch, Borrelli, and Kerrigan, 2023; Neuwirth, 2023
 
 #### 2.1.3 Begrenzte Risiken
 
 KI-Systeme mit begrenztem Risiko, wie Chatbots und Deepfake-Technologien, unterliegen weniger strengen Vorschriften. Transparenzpflichten sollen Nutzer über den KI-Einsatz informieren und Manipulationen verhindern. Beispielsweise müssen Chatbots als automatisierte Systeme erkennbar sein. Diese Maßnahmen stärken das Vertrauen der Nutzer und minimieren negative Auswirkungen.
 
-> "KI-Systeme mit begrenztem Risiko, wie Chatbots und Deepfake-Technologien, unterliegen weniger strengen Vorschriften, um das Vertrauen der Nutzer zu stärken und negative Auswirkungen zu minimieren."
+> "KI-Systeme mit begrenztem Risiko, wie Chatbots und Deepfake-Technologien, unterliegen weniger strengen Vorschriften, um das Vertrauen der Nutzer zu stärken und negative Auswirkungen zu minimieren." Musch, Borrelli, and Kerrigan, 2023
 
 #### 2.1.4 Geringe Risiken
 
 Geringe Risiken umfassen KI-Systeme mit geringen Auswirkungen auf die Gesellschaft, wie Spamfilter oder personalisierte Werbung. Für diese Anwendungen gelten keine speziellen Regeln im Act, was Entwicklern größere Freiheiten lässt. Dennoch ist es wichtig, potenzielle Gefahren für Privatsphäre und Wohlbefinden der Nutzer zu berücksichtigen.
 
-> "Für geringe Risiken, wie Spamfilter oder personalisierte Werbung, gelten keine speziellen Regeln im Act, um Entwicklern größere Freiheiten zu lassen."
+> "Für geringe Risiken, wie Spamfilter oder personalisierte Werbung, gelten keine speziellen Regeln im Act, um Entwicklern größere Freiheiten zu lassen." Musch, Borrelli, and Kerrigan, 2023
 
 #### 2.1.5 Allzweck-KIs (General Purpose AI)
 
 Allzweck-KI-Systeme, die vielseitig einsetzbar sind, unterliegen speziellen Anforderungen. Sie müssen technische Dokumentationen bereitstellen und sicher und zuverlässig funktionieren. Beispiele sind große Sprachmodelle wie GPT-4. Die Regulierung dieser Systeme ist eine Herausforderung und erfordert eine flexible Überwachung.
 
-> "Allzweck-KI-Systeme, wie große Sprachmodelle, unterliegen speziellen Anforderungen und einer flexiblen Überwachung."
+> "Allzweck-KI-Systeme, wie große Sprachmodelle, unterliegen speziellen Anforderungen und einer flexiblen Überwachung." Musch, Borrelli, and Kerrigan, 2023
 
 ### 2.2 Durchsetzen der Regelungen
 
-#### 2.2.1 Bildung von Ausschüsssen und Aufsichtsbehörden
+#### 2.2.1 Bildung von Ausschüssen und Aufsichtsbehörden
 
-Zur Durchsetzung der Regelungen wurden Ausschüsse und Aufsichtsbehörden eingerichtet. Der Europäische Ausschuss für KI (ECAI) und nationale Aufsichtsbehörden überwachen und setzen die Vorschriften durch. Sie haben Zugriff auf Dokumentationen und Daten von KI-Anbietern und können bei Verstößen Maßnahmen anordnen und Strafen verhängen. Die Effizienz dieser Strukturen wird kontinuierlich evaluiert.
+Zur Durchsetzung der Regelungen wurden Ausschüsse und Aufsichtsbehörden eingerichtet. Der Europäische Ausschuss für KI (EAHKI) und nationale Aufsichtsbehörden überwachen und setzen die Vorschriften durch. Sie haben Zugriff auf Dokumentationen und Daten von KI-Anbietern und können bei Verstößen Maßnahmen anordnen und Strafen verhängen. Die Effizienz dieser Strukturen wird kontinuierlich evaluiert.
 
-> "Ausschüsse und Aufsichtsbehörden, wie der Europäische Ausschuss für KI und nationale Behörden, überwachen und setzen die Vorschriften durch."
+> "Ausschüsse und Aufsichtsbehörden, wie der Europäische Ausschuss für KI und nationale Behörden, überwachen und setzen die Vorschriften durch." Musch, Borrelli, and Kerrigan, 2023
 
 #### 2.2.2 Einführung einer Datenbank für Hochrisiko-KI-Systeme
 
 Eine weitere Maßnahme zur Durchsetzung ist die Einführung einer Datenbank für Hochrisiko-KI-Systeme. Alle Hochrisiko-Anwendungen müssen vor ihrer Inbetriebnahme in dieser Datenbank registriert werden. Dies erhöht die Transparenz und Nachvollziehbarkeit der eingesetzten KI-Systeme und erleichtert die Überwachung durch zuständige Behörden.
 
-> "Eine Datenbank für Hochrisiko-KI-Systeme erhöht die Transparenz und Nachvollziehbarkeit der eingesetzten KI-Systeme."
+> "Eine Datenbank für Hochrisiko-KI-Systeme erhöht die Transparenz und Nachvollziehbarkeit der eingesetzten KI-Systeme." Musch, Borrelli, and Kerrigan, 2023
 
 ## 3. Auswirkungen des EU AI Act auf die KI-Entwicklung
 
