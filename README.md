@@ -22,16 +22,67 @@ Ein weiteres Problem ist das Fehlen einheitlicher Regeln innerhalb der EU, was z
 Der EU AI Act verfolgt mehrere zentrale Ziele. Erstens soll er die Entwicklung und Nutzung von KI-Systemen fördern, die sicher, transparent und ethisch vertretbar sind. Dies bedeutet, dass KI-Anwendungen den Schutz der Gesundheit und Sicherheit der Nutzer gewährleisten und negative Auswirkungen auf die Gesellschaft minimieren müssen. Zweitens soll der EU AI Act dazu beitragen, dass die Grundrechte der Bürger gewahrt bleiben, insbesondere in Bezug auf Datenschutz und Nichtdiskriminierung.
 
 Ein weiteres Ziel ist die Förderung von Innovation und Wettbewerbsfähigkeit der EU im globalen KI-Markt. Durch die Schaffung eines einheitlichen Rechtsrahmens werden Unternehmen ermutigt, in die Entwicklung und den Einsatz von KI zu investieren, was wiederum zu wirtschaftlichem Wachstum und technologischer Fortschritt führt. Schließlich soll der EU AI Act die Forschung und Entwicklung im Bereich der KI unterstützen, indem er klare Richtlinien und Standards setzt, die als Grundlage für die Schaffung neuer Technologien dienen .
-2. Aufbau des EU AI Act
-   - 2.1 Aufteilung in Risikokategorien
-     - 2.1.1 Unannehmbare Risiken
-     - 2.1.2 Hohe Risiken
-     - 2.1.3 Begrenzte Risiken
-     - 2.1.4 Geringe Risiken
-     - 2.1.5 Allzweck KIs (General Purpose AI)
-   - 2.2 Durchsetzen der Regelungen
-     - 2.2.1 Bildung von Ausschüssen und Aufsichtsbehörden
-     - 2.2.2 Einführung einer Datenbank für Hochrisiko-KI Systeme
+# 2. Aufbau des EU AI Act
+
+Der EU AI Act ist in verschiedene Risikokategorien unterteilt, die den Einsatz von KI-Technologien regulieren. Die Risikobewertung erfolgt auf Basis der potenziellen Auswirkungen der KI-Systeme auf die Gesellschaft. Darüber hinaus beschreibt der EU AI Act die Mechanismen zur Durchsetzung der Regelungen, einschließlich der Bildung von Ausschüssen und Aufsichtsbehörden sowie der Einführung einer Datenbank für Hochrisiko-KI Systeme.
+
+## 2.1 Aufteilung in Risikokategorien
+
+### 2.1.1 Unannehmbare Risiken (ca. 300 Wörter)
+
+Der EU AI Act definiert unannehmbare Risiken als Anwendungen, die ein hohes Risiko für die Grundrechte und die Sicherheit der Bürger darstellen. Solche Anwendungen sind in der Regel verboten. Dazu gehören beispielsweise Systeme zur Verhaltensbeeinflussung, die ohne Wissen und Einwilligung der betroffenen Personen eingesetzt werden, sowie Social Scoring Systeme, die das Verhalten oder die Eigenschaften von Personen bewerten und klassifizieren. Diese verbotenen Anwendungen können zu Diskriminierung und gesellschaftlicher Ungleichheit führen. Ausnahmen sind nur unter strengen Bedingungen erlaubt, beispielsweise wenn sie im öffentlichen Interesse liegen und durch nationale Gesetze geregelt sind. 
+
+Die strengen Vorschriften und Verbote sollen sicherstellen, dass die Grundrechte der Bürger gewahrt bleiben und missbräuchliche Anwendungen von KI verhindert werden. Dies trägt auch zur gesellschaftlichen Akzeptanz von KI bei, indem Vertrauen in die Technologie geschaffen wird.
+
+### 2.1.2 Hohe Risiken (ca. 300 Wörter)
+
+Hohe Risiken umfassen KI-Anwendungen, die in Bereichen wie der kritischen Infrastruktur, dem Gesundheitswesen, der Strafverfolgung und dem Bildungswesen eingesetzt werden. Diese Systeme können erhebliche Auswirkungen auf das Leben der Menschen haben und unterliegen daher strengen Anforderungen. 
+
+Zu den Anforderungen gehören umfangreiche Risiko-Management-Maßnahmen, regelmäßige Überprüfungen der Datenqualität und die Erstellung technischer Dokumentationen. Beispielsweise müssen KI-Systeme, die in medizinischen Geräten verwendet werden, genaue und zuverlässige Ergebnisse liefern, um die Sicherheit der Patienten zu gewährleisten. Ähnliche Anforderungen gelten für KI-Systeme in Fahrzeugen, die sicherheitsrelevante Entscheidungen treffen. 
+
+Die Implementierung dieser Maßnahmen soll sicherstellen, dass hochriskante KI-Systeme sicher und zuverlässig sind und die Gesundheit und Sicherheit der Nutzer nicht gefährden.
+
+### 2.1.3 Begrenzte Risiken (ca. 250 Wörter)
+
+KI-Systeme, die ein begrenztes Risiko darstellen, wie beispielsweise Chatbots und Deepfake-Technologien, unterliegen weniger strengen Vorschriften. Hauptsächlich sind Transparenzpflichten zu beachten, die darauf abzielen, die Nutzer über den KI-Einsatz zu informieren und Manipulationen zu verhindern.
+
+So müssen beispielsweise Chatbots deutlich machen, dass es sich um automatisierte Systeme handelt, und Deepfake-Technologien müssen entsprechend gekennzeichnet werden. Diese Transparenzpflichten sollen verhindern, dass Nutzer durch die Interaktion mit KI-Systemen getäuscht oder manipuliert werden.
+
+Obwohl diese Maßnahmen weniger streng sind als bei Hochrisiko-Systemen, sind sie dennoch wichtig, um das Vertrauen der Nutzer zu stärken und mögliche negative Auswirkungen zu minimieren.
+
+### 2.1.4 Geringe Risiken (ca. 250 Wörter)
+
+Geringe Risiken umfassen KI-Systeme, die keine oder nur geringe Auswirkungen auf die Gesellschaft haben, wie etwa Spamfilter oder personalisierte Werbung. Für diese Anwendungen sind keine speziellen Regeln im EU AI Act festgelegt, was den Entwicklern größere Freiheiten lässt.
+
+Dennoch ist es wichtig, die potenziellen Gefahren solcher Systeme zu beachten. Obwohl sie keine unmittelbaren Risiken für die Gesundheit oder Sicherheit darstellen, können sie dennoch Auswirkungen auf die Privatsphäre und das Wohlbefinden der Nutzer haben. Daher ist es wichtig, dass Entwickler auch bei diesen Anwendungen verantwortungsvoll handeln.
+
+### 2.1.5 Allzweck KIs (General Purpose AI) (ca. 250 Wörter)
+
+Allzweck-KI-Systeme, die in einer Vielzahl von Anwendungen eingesetzt werden können, unterliegen speziellen Anforderungen. Diese Systeme verfügen über breites Allgemeinwissen und sind vielseitig einsetzbar, was sie besonders komplex und potenziell riskant macht.
+
+Die Anforderungen umfassen die Bereitstellung technischer Dokumentationen und die Sicherstellung, dass diese Systeme sicher und zuverlässig funktionieren. Beispiele für Allzweck-KIs sind große Sprachmodelle wie GPT-4, die in verschiedenen Bereichen eingesetzt werden können, von der Textgenerierung bis hin zur Analyse großer Datenmengen.
+
+Die Regulierung dieser Systeme ist eine Herausforderung, da sie in vielen verschiedenen Kontexten eingesetzt werden können und daher eine flexible und umfassende Überwachung erfordern.
+
+## 2.2 Durchsetzen der Regelungen
+
+### 2.2.1 Bildung von Ausschüssen und Aufsichtsbehörden (ca. 300 Wörter)
+
+Zur Durchsetzung der Regelungen im EU AI Act wurden verschiedene Ausschüsse und Aufsichtsbehörden eingerichtet. Der Europäische Ausschuss für Künstliche Intelligenz (ECAI) und nationale Aufsichtsbehörden sind für die Überwachung und Durchsetzung der Vorschriften verantwortlich.
+
+Diese Behörden haben das Recht, auf die Dokumentationen und Daten der KI-Anbieter zuzugreifen und deren Einhaltung der Vorschriften zu überprüfen. Bei Verstößen können sie Korrekturmaßnahmen anordnen und Strafen verhängen. Die Effizienz dieser Strukturen wird kontinuierlich evaluiert, um sicherzustellen, dass die Regelungen effektiv durchgesetzt werden.
+
+Ein zentrales Ziel dieser Strukturen ist es, sicherzustellen, dass KI-Systeme sicher und vertrauenswürdig sind und dass Verstöße schnell und wirksam geahndet werden können.
+
+### 2.2.2 Einführung einer Datenbank für Hochrisiko-KI Systeme (ca. 250 Wörter)
+
+Eine weitere wichtige Maßnahme zur Durchsetzung der Regelungen ist die Einführung einer Datenbank für Hochrisiko-KI Systeme. Alle Hochrisiko-KI Systeme müssen vor ihrer Inbetriebnahme in dieser Datenbank registriert werden. 
+
+Die Datenbank ermöglicht einen Überblick über alle betriebene Hochrisiko-KI Systeme und deren Einsatzgebiete. Dies erhöht die Transparenz und Nachvollziehbarkeit der eingesetzten KI-Systeme und erleichtert die Überwachung durch die zuständigen Behörden.
+
+Diese Maßnahme trägt dazu bei, das Vertrauen in KI-Systeme zu stärken, indem sie sicherstellt, dass alle hochriskanten Anwendungen angemessen überwacht und reguliert werden.
+
+
 3. Bidens Executive Order
    - 3.1 Einführung und Ziele der Executive Order
    - 3.2 Verpflichtungen für Entwickler
