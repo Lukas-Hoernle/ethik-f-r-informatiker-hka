@@ -1,3 +1,32 @@
+---
+title: "Der EU AI Act"
+author: "Lukas Hörnle"
+date: "30. Juni 2024"
+---
+
+![image](https://hackmd.io/_uploads/SkAIwbJDA.png)
+
+# Der EU AI Act
+
+**Student:** Lukas Hörnle  
+**Matrikelnummer:** 94153  
+**Betreuer:** Prof. Dr. Mahayni  
+**Hochschule:** Hochschule Karlsruhe Technik und Wirtschaft  
+**Studiengang:** Informatik  
+**Semester:** Sommersemester 24  
+
+--- 
+
+## Eidesstattliche Erklärung
+
+Hiermit bestätige ich, dass ich die vorliegende Prüfungsleistung im Fach Ethik für Informatik vom 15. Juni 2024 selbständig bearbeitet und keine anderen als die erlaubten Hilfsmittel benutzt habe. Ich erkläre hiermit, dass ich beim Einsatz von IT–/KI-gestützten Schreibwerkzeugen diese Werkzeuge in der Rubrik „Literaturverzeichnis und verwendete Hilfsmittel“ mit ihrem Produktnamen, meiner Bezugsquelle und einer Übersicht des im Rahmen dieser Studienarbeit genutzten Funktionsumfangs vollständig aufgeführt habe. Ich erkläre hiermit, dass ich alle Textpassagen, die durch den Einsatz von KI–gestützten Schreibwerkzeugen generiert wurden, unter Nennung des eingesetzten KI–gestützten Schreibwerkzeugs gekennzeichnet habe. Bei der Erstellung der vorgelegten Prüfungsleistung habe ich durchgehend eigenständig und beim Einsatz IT–/KI–gestützter Schreibwerkzeuge steuernd gearbeitet. Ich habe keine anderen als die zugelassenen Hilfsmittel verwendet.
+
+Karlsruhe, den 30.06.2024
+
+Hörnle, Lukas
+
+---
+
 # Einführung in den EU AI Act
 
 ## Inhaltsverzeichnis
