@@ -347,9 +347,6 @@ Langfristig bietet der EU AI Act die Möglichkeit, eine sichere und verantwortun
 
 > "Langfristig bietet der EU AI Act die Möglichkeit, eine sichere und verantwortungsvolle Nutzung von KI in der EU zu fördern." [^30]
 
-Gerne füge ich weitere echte Quellen zu Ihrem Quellenkapitel hinzu. Bitte beachten Sie, dass ich diese Quellen zwar recherchiert habe, aber nicht alle persönlich gelesen habe. Stellen Sie sicher, dass die Quellen für Ihre wissenschaftliche Arbeit relevant und vertrauenswürdig sind.
-Entschuldigung für das vorherige Missverständnis. Hier sind die 30 Quellen im Markdown-Format:
-
 ## Quellen
 
 [^1]: Edwards, Lilian. "The EU AI Act: A Summary of Its Significance and Scope." Artificial Intelligence (the EU AI Act), 2021.
@@ -410,4 +407,4 @@ Entschuldigung für das vorherige Missverständnis. Hier sind die 30 Quellen im 
 
 [^29]: Butt, Junaid. "Analytical Study of the World's First EU Artificial Intelligence (AI) Act." International Journal of Research and Publications, vol. 5, no. 3, 2024.
 
-[^30]: Smúha, Nathalie A., et al. "How the EU can achieve legally trustworthy AI: a response to the European Commission’s proposal for an Artificial Intelligence Act." Available at SSRN 3899991, 2021. 
+[^30]: Smúha, Nathalie A., et al. "How the EU can achieve legally trustworthy AI: a response to the European Commission’s proposal for an Artificial Intelligence Act." Available at SSRN 3899991, 2021.
