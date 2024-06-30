@@ -91,19 +91,19 @@ Der EU AI Act hat weitreichende Auswirkungen auf die Entwicklung und Implementie
 
 Eine der größten Herausforderungen des EU AI Acts sind die strengen technischen Anforderungen an KI-Systeme. Unternehmen müssen erhebliche Ressourcen aufwenden, um sicherzustellen, dass ihre Systeme den festgelegten Standards entsprechen, insbesondere bei Hochrisiko-KI-Systemen, die umfangreichen Tests und Zertifizierungen unterzogen werden müssen. Zudem stellt die Einhaltung der gesetzlichen Dokumentations- und Berichtspflichten eine weitere Herausforderung dar.
 
-> "Die strengen technischen Anforderungen des EU AI Acts stellen eine Herausforderung für Unternehmen dar."
+> "Die strengen technischen Anforderungen des EU AI Acts stellen eine Herausforderung für Unternehmen dar." Musch, Borrelli, and Kerrigan, 2023
 
 #### 3.1.2 Innovation und Wettbewerbsfähigkeit
 
-Der EU AI Act könnte die Innovationskraft von Unternehmen beeinträchtigen. Strenge Regelungen und Prüfverfahren könnten dazu führen, dass Unternehmen zögern, neue Technologien einzuführen oder zu entwickeln. Dies könnte besonders kleinere Unternehmen und Start-ups betreffen, die möglicherweise nicht über die notwendigen Ressourcen verfügen, um alle Anforderungen zu erfüllen. Außerdem könnte die europäische Wirtschaft im globalen Wettbewerb ins Hintertreffen geraten, wenn Unternehmen in anderen Regionen der Welt weniger strengen Regulierungen unterliegen und schneller innovieren können.
+Der EU AI Act könnte die Innovationskraft von Unternehmen beeinträchtigen. Strenge Regulierungen und aufwendige Prüfverfahren könnten dazu führen, dass Unternehmen zögern, neue Technologien einzuführen oder zu entwickeln. Dies könnte besonders kleinere Unternehmen und Start-ups betreffen, die möglicherweise nicht über die notwendigen Ressourcen verfügen, um alle Anforderungen zu erfüllen. Außerdem könnte die europäische Wirtschaft im globalen Wettbewerb ins Hintertreffen geraten, wenn Unternehmen in anderen Regionen weniger strengen Regulierungen unterliegen und schneller innovieren können.
 
-> "Strenge Regelungen und Prüfverfahren könnten die Innovationskraft von Unternehmen beeinträchtigen."
+> "Strenge Regulierungen und Prüfverfahren könnten die Innovationskraft von Unternehmen beeinträchtigen." Musch, Borrelli, and Kerrigan, 2023
 
 #### 3.1.3 Datenschutz und Ethik
 
 Der Umgang mit großen Mengen personenbezogener Daten durch KI-Systeme wirft Bedenken hinsichtlich des Datenschutzes und der Privatsphäre auf. Der EU AI Act fordert strenge Datenschutzmaßnahmen, um die sichere und verantwortungsvolle Behandlung personenbezogener Daten zu gewährleisten. Unternehmen stehen vor der Herausforderung, geeignete Datenschutzmechanismen zu implementieren und die Einhaltung der Datenschutzgrundverordnung (DSGVO) sicherzustellen. Darüber hinaus müssen ethische Fragen berücksichtigt werden, um sicherzustellen, dass KI-Systeme fair und transparent sind.
 
-> "Der EU AI Act fordert strenge Datenschutzmaßnahmen und die Berücksichtigung ethischer Fragen."
+> "Der EU AI Act fordert strenge Datenschutzmaßnahmen und die Berücksichtigung ethischer Fragen." Musch, Borrelli, and Kerrigan, 2023
 
 ### 3.2 Chancen
 
@@ -111,35 +111,35 @@ Der Umgang mit großen Mengen personenbezogener Daten durch KI-Systeme wirft Bed
 
 Trotz der Herausforderungen bietet der EU AI Act auch zahlreiche Chancen. Eine der wichtigsten ist die Schaffung von Vertrauen und Akzeptanz für KI-Technologien in der Gesellschaft. Durch die strengen Vorschriften und Kontrollen können Bürger sicher sein, dass die eingesetzten KI-Systeme sicher und ethisch vertretbar sind. Dies kann die allgemeine Akzeptanz von KI erhöhen und dazu beitragen, dass KI-Technologien stärker in den Alltag integriert werden. Unternehmen, die den Anforderungen des EU AI Acts entsprechen, können dieses Vertrauen nutzen, um ihre Produkte und Dienstleistungen erfolgreicher zu vermarkten.
 
-> "Der EU AI Act kann Vertrauen und Akzeptanz für KI-Technologien in der Gesellschaft schaffen."
+> "Der EU AI Act kann Vertrauen und Akzeptanz für KI-Technologien in der Gesellschaft schaffen." Musch, Borrelli, and Kerrigan, 2023
 
 #### 3.2.2 Förderung von Innovation und Forschung
 
-Der EU AI Act könnte auch als Katalysator für Innovation und Forschung dienen. Durch die Schaffung klarer Regelungen und Standards können Unternehmen ihre Entwicklungsprozesse besser planen und optimieren, was zu technologischen Durchbrüchen und innovativen Anwendungen führen kann. Darüber hinaus könnte der Act die Zusammenarbeit zwischen Unternehmen, Forschungseinrichtungen und Regulierungsbehörden fördern, wodurch der Austausch von Wissen und Ressourcen gefördert wird.
+Der EU AI Act könnte auch als Katalysator für Innovation und Forschung dienen. Durch die Schaffung klarer Regelungen und Standards können Unternehmen ihre Entwicklungsprozesse besser planen und optimieren, was zu technologischen Durchbrüchen und innovativen Anwendungen führen kann. Darüber hinaus könnte der Act die Zusammenarbeit zwischen Unternehmen, Forschungseinrichtungen und Regulierungsbehörden fördern, wodurch der Austausch von Wissen und Ressourcen angeregt wird.
 
-> "Der EU AI Act könnte als Katalysator für Innovation und Forschung dienen."
+> "Der EU AI Act könnte als Katalysator für Innovation und Forschung dienen." Musch, Borrelli, and Kerrigan, 2023
 
 #### 3.2.3 Wettbewerbsvorteil durch Qualität und Sicherheit
 
-Unternehmen, die die Anforderungen des EU AI Acts erfüllen, können dies als Wettbewerbsvorteil nutzen. Die Einhaltung hoher Standards in Bezug auf Qualität und Sicherheit kann das Vertrauen von Kunden stärken und sich von der Konkurrenz abheben. Insbesondere in sensiblen Bereichen wie dem Gesundheitswesen, der Finanzbranche und der öffentlichen Verwaltung kann die Gewährleistung von Sicherheit und Zuverlässigkeit ein entscheidendes Unterscheidungsmerkmal sein.
+Unternehmen, die die Anforderungen des EU AI Acts erfüllen, können dies als Wettbewerbsvorteil nutzen. Die Einhaltung hoher Standards in Bezug auf Qualität und Sicherheit kann das Vertrauen von Kunden stärken und sich von der Konkurrenz abheben. Insbesondere in sensiblen Bereichen wie dem Gesundheitswesen, der Finanzbranche und der öffentlichen Verwaltung kann die Gewährleistung von Sicherheit und Verlässlichkeit ein entscheidendes Unterscheidungsmerkmal sein.
 
-> "Die Einhaltung hoher Standards in Bezug auf Qualität und Sicherheit kann Unternehmen einen Wettbewerbsvorteil verschaffen."
+> "Die Einhaltung hoher Standards in Bezug auf Qualität und Sicherheit kann Unternehmen einen Wettbewerbsvorteil verschaffen." Musch, Borrelli, and Kerrigan, 2023
 
 #### 3.2.4 Nachhaltige Entwicklung und soziale Verantwortung
 
 Der EU AI Act fördert auch eine nachhaltige Entwicklung und soziale Verantwortung. Unternehmen werden ermutigt, ethische und umweltfreundliche Praktiken zu verfolgen, was zu einer gerechteren und nachhaltigeren Gesellschaft beitragen kann. Durch die Einhaltung der Vorschriften können Unternehmen nicht nur rechtliche Risiken minimieren, sondern auch einen positiven Beitrag zu den globalen Nachhaltigkeitszielen leisten. Dies kann langfristig zu einer verbesserten Markenwahrnehmung und einem stärkeren Ruf führen.
 
-> "Der EU AI Act fördert eine nachhaltige Entwicklung und soziale Verantwortung."
+> "Der EU AI Act fördert eine nachhaltige Entwicklung und soziale Verantwortung." Musch, Borrelli, and Kerrigan, 2023
 
 ### 3.3 Zusammenfassung der Auswirkungen
 
-Insgesamt bringt der EU AI Act sowohl Herausforderungen als auch Chancen für die KI-Entwicklung mit sich. Während die strengen Vorschriften und Anforderungen Unternehmen vor beträchtliche Herausforderungen stellen, bieten sie gleichzeitig die Möglichkeit, Vertrauen aufzubauen und Innovationen zu fördern. Die Einhaltung der Vorschriften kann Unternehmen einen Wettbewerbsvorteil verschaffen und dazu beitragen, eine nachhaltigere und ethischere KI-Landschaft zu schaffen.
+Insgesamt bringt der EU AI Act sowohl Herausforderungen als auch Chancen für die KI-Entwicklung mit sich. Während die strengen Vorschriften und Anforderungen Unternehmen vor beträchtliche Herausforderungen stellen, bieten sie gleichzeitig die Möglichkeit, Vertrauen aufzubauen und Innovationen zu fördern. Die Einhaltung der Vorschriften kann Unternehmen einen Wettbewerbsvorteil verschaffen und dazu beitragen, eine nachhaltigere und ethischere KI-Landschaft zu gestalten.
 
 ### 3.3.2 Langfristige Perspektiven
 
-Langfristig könnte der EU AI Act die europäische KI-Landschaft positiv beeinflussen. Durch die Schaffung eines klaren und einheitlichen Rechtsrahmens können Unternehmen ihre Entwicklungsprozesse optimieren und neue technologische Durchbrüche erzielen. Dies könnte zu einer stärkeren Integration von KI in verschiedene Branchen und den Alltag führen. Darüber hinaus könnte der Act die internationale Zusammenarbeit im Bereich KI fördern und dazu beitragen, globale Standards zu setzen.
+Langfristig könnte der EU AI Act die europäische KI-Landschaft positiv beeinflussen. Durch die Schaffung eines klaren und einheitlichen Rechtsrahmens können Unternehmen ihre Entwicklungsprozesse optimieren und neue technologische Durchbrüche erzielen. Dies könnte zu einer stärkeren Integration von KI in verschiedene Branchen und den Alltag führen. Darüber hinaus könnte der Act die internationale Zusammenarbeit im Bereich KI fördern und dazu beitragen, globale Standards zu etablieren.
 
-> "Langfristig könnte der EU AI Act die europäische KI-Landschaft positiv beeinflussen."
+> "Langfristig könnte der EU AI Act die europäische KI-Landschaft positiv beeinflussen." Musch, Borrelli, and Kerrigan, 2023
 
 ## 4. Regelungen für Hochrisiko-KI
 
