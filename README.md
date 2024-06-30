@@ -9,7 +9,7 @@ date: "30. Juni 2024"
 # Der EU AI Act
 
 **Student:** Lukas Hörnle  
-**Matrikelnummer:** 94153  
+**Matrikelnummer:** not public  
 **Betreuer:** Prof. Dr. Mahayni  
 **Hochschule:** Hochschule Karlsruhe Technik und Wirtschaft  
 **Studiengang:** Informatik  
