@@ -1,6 +1,3 @@
-Hier ist das Markdown mit Zahlen an den Zitaten:
-
-```markdown
 # Einführung in den EU AI Act
 
 ## Inhaltsverzeichnis
