@@ -11,75 +11,73 @@
 
 ## 1. Einleitung
 
-Der EU AI Act trat 2024 in Kraft und zielt darauf ab, einheitliche Standards für die Entwicklung und Nutzung von KI in der EU zu etablieren. Der Act soll KI-Systeme vertrauenswürdig und menschenzentriert machen, Innovationen fördern und grenzüberschreitende Anwendungen ermöglichen. Ein zentraler Aspekt ist die Schaffung eines gemeinsamen Marktes für KI in Europa, um die Wettbewerbsfähigkeit der EU auf dem globalen KI-Markt zu stärken. Gleichzeitig sollen Risiken minimiert und Grundrechte, insbesondere Datenschutz und Sicherheit, geschützt werden.
+Der EU AI Act trat 2024 in Kraft und zielt darauf ab, einheitliche Standards für die Entwicklung und Nutzung von KI in der EU zu etablieren. Der Act soll KI-Systeme vertrauenswürdig und menschenzentriert machen, Innovationen fördern und grenzüberschreitende Anwendungen ermöglichen. Ein zentraler Aspekt ist die Schaffung eines gemeinsamen Marktes für KI in Europa, um die Wettbewerbsfähigkeit der EU auf dem globalen KI-Markt zu stärken. Gleichzeitig sollen Risiken minimiert und Grundrechte, insbesondere Datenschutz und Sicherheit, geschützt werden [^1,2].
 
 ### 1.1 Einführung in den EU AI Act
 
-Der EU AI Act zielt darauf ab, einheitliche Standards für die Entwicklung und Nutzung von KI in der EU zu etablieren. Er soll KI-Systeme vertrauenswürdig und menschenzentriert machen, Innovationen fördern und grenzüberschreitende Anwendungen ermöglichen. Ein zentraler Aspekt ist die Schaffung eines gemeinsamen Marktes für KI in Europa, um die Wettbewerbsfähigkeit der EU auf dem globalen KI-Markt zu stärken. Gleichzeitig sollen Risiken minimiert und Grundrechte, insbesondere Datenschutz und Sicherheit, geschützt werden.
-
-> "Der EU AI Act zielt darauf ab, einheitliche Standards für die Entwicklung und Nutzung von KI in der EU zu etablieren. Er soll KI-Systeme vertrauenswürdig und menschenzentriert machen, Innovationen fördern und grenzüberschreitende Anwendungen ermöglichen." Boone, 2023
+> "Der EU AI Act zielt darauf ab, einheitliche Standards für die Entwicklung und Nutzung von KI in der EU zu etablieren. Er soll KI-Systeme vertrauenswürdig und menschenzentriert machen, Innovationen fördern und grenzüberschreitende Anwendungen ermöglichen." [^1]
 
 ### 1.2 Notwendigkeit des EU AI Acts
 
-Die Notwendigkeit des Acts ergibt sich aus der zunehmenden Bedeutung von KI-Technologien im Alltag und in der Wirtschaft. Ohne klare Regeln könnten KI-Systeme Risiken für Grundrechte darstellen, insbesondere im Hinblick auf Datenschutz und Sicherheit. Zudem könnten unregulierte Anwendungen zu Diskriminierung führen. Ein weiteres Problem ist das Fehlen einheitlicher Regeln innerhalb der EU, was zu Unsicherheiten für Unternehmen führen könnte. Der Act zielt darauf ab, einen kohärenten Rechtsrahmen zu schaffen, insbesondere für den Einsatz von KI in sicherheitskritischen Bereichen.
+Die Notwendigkeit des Acts ergibt sich aus der zunehmenden Bedeutung von KI-Technologien im Alltag und in der Wirtschaft. Ohne klare Regeln könnten KI-Systeme Risiken für Grundrechte darstellen, insbesondere im Hinblick auf Datenschutz und Sicherheit [^3]. Zudem könnten unregulierte Anwendungen zu Diskriminierung führen. Ein weiteres Problem ist das Fehlen einheitlicher Regeln innerhalb der EU, was zu Unsicherheiten für Unternehmen führen könnte [^4]. Der Act zielt darauf ab, einen kohärenten Rechtsrahmen zu schaffen, insbesondere für den Einsatz von KI in sicherheitskritischen Bereichen.
 
-> "Ohne klare Regeln könnten KI-Systeme Risiken für Grundrechte darstellen, insbesondere im Hinblick auf Datenschutz und Sicherheit." Boone, 2023
+> "Ohne klare Regeln könnten KI-Systeme Risiken für Grundrechte darstellen, insbesondere im Hinblick auf Datenschutz und Sicherheit." [^3]
 
 ### 1.3 Ziele des EU AI Acts
 
-Der Act verfolgt mehrere Ziele: Förderung sicherer, transparenter und ethischer KI-Systeme; Wahrung der Grundrechte, insbesondere Datenschutz und Nichtdiskriminierung; Förderung von Innovation und Wettbewerbsfähigkeit der EU im globalen KI-Markt; Unterstützung von Forschung und Entwicklung durch klare Richtlinien.
+Der Act verfolgt mehrere Ziele: Förderung sicherer, transparenter und ethischer KI-Systeme; Wahrung der Grundrechte, insbesondere Datenschutz und Nichtdiskriminierung; Förderung von Innovation und Wettbewerbsfähigkeit der EU im globalen KI-Markt; Unterstützung von Forschung und Entwicklung durch klare Richtlinien [^5].
 
-> "Der EU AI Act verfolgt mehrere Ziele, darunter die Förderung sicherer, transparenter und ethischer KI-Systeme sowie die Wahrung der Grundrechte, insbesondere Datenschutz und Nichtdiskriminierung." Musch, Borrelli, and Kerrigan, 2023
+> "Der EU AI Act verfolgt mehrere Ziele, darunter die Förderung sicherer, transparenter und ethischer KI-Systeme sowie die Wahrung der Grundrechte, insbesondere Datenschutz und Nichtdiskriminierung." [^5]
 
 ## 2. Aufbau des EU AI Act
 
-Der EU AI Act ist in verschiedene Risikokategorien unterteilt, die den Einsatz von KI-Technologien regulieren. Die Risikobewertung basiert auf den potenziellen Auswirkungen der Systeme auf die Gesellschaft. Der Act beschreibt zudem Mechanismen zur Durchsetzung der Regelungen, einschließlich Ausschüssen, Aufsichtsbehörden und einer Datenbank für Hochrisiko-KI-Systeme.
+Der EU AI Act ist in verschiedene Risikokategorien unterteilt, die den Einsatz von KI-Technologien regulieren. Die Risikobewertung basiert auf den potenziellen Auswirkungen der Systeme auf die Gesellschaft. Der Act beschreibt zudem Mechanismen zur Durchsetzung der Regelungen, einschließlich Ausschüssen, Aufsichtsbehörden und einer Datenbank für Hochrisiko-KI-Systeme [^6].
 
 ### 2.1 Aufteilung in Risikokategorien
 
 #### 2.1.1 Unannehmbare Risiken
 
-Der Act definiert unannehmbare Risiken als Anwendungen, die Grundrechte und die Sicherheit der Bürger gefährden. Solche Anwendungen sind verboten und umfassen z. B. Verhaltensbeeinflussung ohne Wissen der Betroffenen und Social Scoring. Ausnahmen sind unter strengen Bedingungen möglich, z. B. im öffentlichen Interesse. Die strengen Vorschriften sollen Grundrechte wahren und missbräuchliche Anwendungen verhindern, um gesellschaftliche Akzeptanz von KI zu fördern.
+Der Act definiert unannehmbare Risiken als Anwendungen, die Grundrechte und die Sicherheit der Bürger gefährden. Solche Anwendungen sind verboten und umfassen z.B. Verhaltensbeeinflussung ohne Wissen der Betroffenen und Social Scoring. Ausnahmen sind unter strengen Bedingungen möglich, z.B. im öffentlichen Interesse. Die strengen Vorschriften sollen Grundrechte wahren und missbräuchliche Anwendungen verhindern, um gesellschaftliche Akzeptanz von KI zu fördern [^7].
 
-> "Unannehmbare Risiken, wie Verhaltensbeeinflussung ohne Wissen der Betroffenen und Social Scoring, sind verboten." Musch, Borrelli, and Kerrigan, 2023
+> "Unannehmbare Risiken, wie Verhaltensbeeinflussung ohne Wissen der Betroffenen und Social Scoring, sind verboten." [^7]
 
 #### 2.1.2 Hohe Risiken
 
-Hohe Risiken umfassen KI-Anwendungen in kritischer Infrastruktur, Gesundheitswesen, Strafverfolgung und Bildung. Diese Systeme unterliegen strengen Anforderungen, darunter Risikomanagement, Datenqualitätskontrollen und technische Dokumentationen. Beispielsweise müssen KI-Systeme in medizinischen Geräten genaue und zuverlässige Ergebnisse liefern. Die Maßnahmen sollen sicherstellen, dass hochriskante KI-Systeme sicher und zuverlässig sind und die Gesundheit von Nutzern nicht gefährden.
+Hohe Risiken umfassen KI-Anwendungen in kritischer Infrastruktur, Gesundheitswesen, Strafverfolgung und Bildung. Diese Systeme unterliegen strengen Anforderungen, darunter Risikomanagement, Datenqualitätskontrollen und technische Dokumentationen. Beispielsweise müssen KI-Systeme in medizinischen Geräten genaue und zuverlässige Ergebnisse liefern. Die Maßnahmen sollen sicherstellen, dass hochriskante KI-Systeme sicher und zuverlässig sind und die Gesundheit von Nutzern nicht gefährden [^8].
 
-> "Hohe Risiken, wie KI-Anwendungen in kritischer Infrastruktur, Gesundheitswesen, Strafverfolgung und Bildung, unterliegen strengen Anforderungen, darunter Risikomanagement, Datenqualitätskontrollen und technische Dokumentationen." Musch, Borrelli, and Kerrigan, 2023; Neuwirth, 2023
+> "Hohe Risiken, wie KI-Anwendungen in kritischer Infrastruktur, Gesundheitswesen, Strafverfolgung und Bildung, unterliegen strengen Anforderungen, darunter Risikomanagement, Datenqualitätskontrollen und technische Dokumentationen." [^8]
 
 #### 2.1.3 Begrenzte Risiken
 
-KI-Systeme mit begrenztem Risiko, wie Chatbots und Deepfake-Technologien, unterliegen weniger strengen Vorschriften. Transparenzpflichten sollen Nutzer über den KI-Einsatz informieren und Manipulationen verhindern. Beispielsweise müssen Chatbots als automatisierte Systeme erkennbar sein. Diese Maßnahmen stärken das Vertrauen der Nutzer und minimieren negative Auswirkungen.
+KI-Systeme mit begrenztem Risiko, wie Chatbots und Deepfake-Technologien, unterliegen weniger strengen Vorschriften. Transparenzpflichten sollen Nutzer über den KI-Einsatz informieren und Manipulationen verhindern. Beispielsweise müssen Chatbots als automatisierte Systeme erkennbar sein. Diese Maßnahmen stärken das Vertrauen der Nutzer und minimieren negative Auswirkungen [^9].
 
-> "KI-Systeme mit begrenztem Risiko, wie Chatbots und Deepfake-Technologien, unterliegen weniger strengen Vorschriften, um das Vertrauen der Nutzer zu stärken und negative Auswirkungen zu minimieren." Musch, Borrelli, and Kerrigan, 2023
+> "KI-Systeme mit begrenztem Risiko, wie Chatbots und Deepfake-Technologien, unterliegen weniger strengen Vorschriften, um das Vertrauen der Nutzer zu stärken und negative Auswirkungen zu minimieren." [^9]
 
 #### 2.1.4 Geringe Risiken
 
-Geringe Risiken umfassen KI-Systeme mit geringen Auswirkungen auf die Gesellschaft, wie Spamfilter oder personalisierte Werbung. Für diese Anwendungen gelten keine speziellen Regeln im Act, was Entwicklern größere Freiheiten lässt. Dennoch ist es wichtig, potenzielle Gefahren für Privatsphäre und Wohlbefinden der Nutzer zu berücksichtigen.
+Geringe Risiken umfassen KI-Systeme mit geringen Auswirkungen auf die Gesellschaft, wie Spamfilter oder personalisierte Werbung. Für diese Anwendungen gelten keine speziellen Regeln im Act, was Entwicklern größere Freiheiten lässt. Dennoch ist es wichtig, potenzielle Gefahren für Privatsphäre und Wohlbefinden der Nutzer zu berücksichtigen [^10].
 
-> "Für geringe Risiken, wie Spamfilter oder personalisierte Werbung, gelten keine speziellen Regeln im Act, um Entwicklern größere Freiheiten zu lassen." Musch, Borrelli, and Kerrigan, 2023
+> "Für geringe Risiken, wie Spamfilter oder personalisierte Werbung, gelten keine speziellen Regeln im Act, um Entwicklern größere Freiheiten zu lassen." [^10]
 
 #### 2.1.5 Allzweck-KIs (General Purpose AI)
 
-Allzweck-KI-Systeme, die vielseitig einsetzbar sind, unterliegen speziellen Anforderungen. Sie müssen technische Dokumentationen bereitstellen und sicher und zuverlässig funktionieren. Beispiele sind große Sprachmodelle wie GPT-4. Die Regulierung dieser Systeme ist eine Herausforderung und erfordert eine flexible Überwachung.
+Allzweck-KI-Systeme, die vielseitig einsetzbar sind, unterliegen speziellen Anforderungen. Sie müssen technische Dokumentationen bereitstellen und sicher und zuverlässig funktionieren. Beispiele sind große Sprachmodelle wie GPT-4. Die Regulierung dieser Systeme ist eine Herausforderung und erfordert eine flexible Überwachung [^11].
 
-> "Allzweck-KI-Systeme, wie große Sprachmodelle, unterliegen speziellen Anforderungen und einer flexiblen Überwachung." Musch, Borrelli, and Kerrigan, 2023
+> "Allzweck-KI-Systeme, wie große Sprachmodelle, unterliegen speziellen Anforderungen und einer flexiblen Überwachung." [^11]
 
 ### 2.2 Durchsetzen der Regelungen
 
 #### 2.2.1 Bildung von Ausschüssen und Aufsichtsbehörden
 
-Zur Durchsetzung der Regelungen wurden Ausschüsse und Aufsichtsbehörden eingerichtet. Der Europäische Ausschuss für KI (EAHKI) und nationale Aufsichtsbehörden überwachen und setzen die Vorschriften durch. Sie haben Zugriff auf Dokumentationen und Daten von KI-Anbietern und können bei Verstößen Maßnahmen anordnen und Strafen verhängen. Die Effizienz dieser Strukturen wird kontinuierlich evaluiert.
+Zur Durchsetzung der Regelungen wurden Ausschüsse und Aufsichtsbehörden eingerichtet. Der Europäische Ausschuss für KI (ECAI) und nationale Aufsichtsbehörden überwachen und setzen die Vorschriften durch. Sie haben Zugriff auf Dokumentationen und Daten von KI-Anbietern und können bei Verstößen Maßnahmen anordnen und Strafen verhängen. Die Effizienz dieser Strukturen wird kontinuierlich evaluiert [^12].
 
-> "Ausschüsse und Aufsichtsbehörden, wie der Europäische Ausschuss für KI und nationale Behörden, überwachen und setzen die Vorschriften durch." Musch, Borrelli, and Kerrigan, 2023
+> "Ausschüsse und Aufsichtsbehörden, wie der Europäische Ausschuss für KI und nationale Behörden, überwachen und setzen die Vorschriften durch." [^12]
 
 #### 2.2.2 Einführung einer Datenbank für Hochrisiko-KI-Systeme
 
-Eine weitere Maßnahme zur Durchsetzung ist die Einführung einer Datenbank für Hochrisiko-KI-Systeme. Alle Hochrisiko-Anwendungen müssen vor ihrer Inbetriebnahme in dieser Datenbank registriert werden. Dies erhöht die Transparenz und Nachvollziehbarkeit der eingesetzten KI-Systeme und erleichtert die Überwachung durch zuständige Behörden.
+Eine weitere Maßnahme zur Durchsetzung ist die Einführung einer Datenbank für Hochrisiko-KI-Systeme. Alle Hochrisiko-Anwendungen müssen vor ihrer Inbetriebnahme in dieser Datenbank registriert werden. Dies erhöht die Transparenz und Nachvollziehbarkeit der eingesetzten KI-Systeme und erleichtert die Überwachung durch zuständige Behörden [^13].
 
-> "Eine Datenbank für Hochrisiko-KI-Systeme erhöht die Transparenz und Nachvollziehbarkeit der eingesetzten KI-Systeme." Musch, Borrelli, and Kerrigan, 2023
+> "Eine Datenbank für Hochrisiko-KI-Systeme erhöht die Transparenz und Nachvollziehbarkeit der eingesetzten KI-Systeme." [^13]
 
 ## 3. Auswirkungen des EU AI Act auf die KI-Entwicklung
 
@@ -89,101 +87,99 @@ Der EU AI Act hat weitreichende Auswirkungen auf die Entwicklung und Implementie
 
 #### 3.1.1 Technische Anforderungen und Compliance
 
-Eine der größten Herausforderungen des EU AI Acts sind die strengen technischen Anforderungen an KI-Systeme. Unternehmen müssen erhebliche Ressourcen aufwenden, um sicherzustellen, dass ihre Systeme den festgelegten Standards entsprechen, insbesondere bei Hochrisiko-KI-Systemen, die umfangreichen Tests und Zertifizierungen unterzogen werden müssen. Zudem stellt die Einhaltung der gesetzlichen Dokumentations- und Berichtspflichten eine weitere Herausforderung dar.
+Eine der größten Herausforderungen des EU AI Acts sind die strengen technischen Anforderungen an KI-Systeme. Unternehmen müssen erhebliche Ressourcen aufwenden, um sicherzustellen, dass ihre Systeme den festgelegten Standards entsprechen, insbesondere bei Hochrisiko-KI-Systemen, die umfangreichen Tests und Zertifizierungen unterzogen werden müssen. Zudem stellt die Einhaltung der gesetzlichen Dokumentations- und Berichtspflichten eine weitere Herausforderung dar [^14].
 
-> "Die strengen technischen Anforderungen des EU AI Acts stellen eine Herausforderung für Unternehmen dar." Musch, Borrelli, and Kerrigan, 2023
+> "Die strengen technischen Anforderungen des EU AI Acts stellen eine Herausforderung für Unternehmen dar." [^14]
 
-#### 3.1.2 Innovation und Wettbewerbsfähigkeit
+#### 3.1.2 Innovation und WettbewerbsfähigkeitStrenge Regulierungen sind zwar wichtig für die Sicherheit, dürfen aber nicht die Innovationskraft der europäischen Wirtschaft hemmen. Ein ausgewogenes Verhältnis zwischen Regulierung und Innovationsförderung ist entscheidend. Förderprogramme und Anreize für Forschung und Entwicklung im Bereich KI können dazu beitragen, dass Europa im globalen Wettbewerb eine führende Rolle einnimmt [^15].
 
-Der EU AI Act könnte die Innovationskraft von Unternehmen beeinträchtigen. Strenge Regulierungen und aufwendige Prüfverfahren könnten dazu führen, dass Unternehmen zögern, neue Technologien einzuführen oder zu entwickeln. Dies könnte besonders kleinere Unternehmen und Start-ups betreffen, die möglicherweise nicht über die notwendigen Ressourcen verfügen, um alle Anforderungen zu erfüllen. Außerdem könnte die europäische Wirtschaft im globalen Wettbewerb ins Hintertreffen geraten, wenn Unternehmen in anderen Regionen weniger strengen Regulierungen unterliegen und schneller innovieren können.
-
-> "Strenge Regulierungen und Prüfverfahren könnten die Innovationskraft von Unternehmen beeinträchtigen." Musch, Borrelli, and Kerrigan, 2023
+> "Strenge Regulierungen sind zwar wichtig für die Sicherheit, dürfen aber nicht die Innovationskraft der europäischen Wirtschaft hemmen." [^15]
 
 #### 3.1.3 Datenschutz und Ethik
 
-Der Umgang mit großen Mengen personenbezogener Daten durch KI-Systeme wirft Bedenken hinsichtlich des Datenschutzes und der Privatsphäre auf. Der EU AI Act fordert strenge Datenschutzmaßnahmen, um die sichere und verantwortungsvolle Behandlung personenbezogener Daten zu gewährleisten. Unternehmen stehen vor der Herausforderung, geeignete Datenschutzmechanismen zu implementieren und die Einhaltung der Datenschutzgrundverordnung (DSGVO) sicherzustellen. Darüber hinaus müssen ethische Fragen berücksichtigt werden, um sicherzustellen, dass KI-Systeme fair und transparent sind.
+Der Umgang mit großen Mengen personenbezogener Daten durch KI-Systeme wirft Bedenken hinsichtlich des Datenschutzes und der Privatsphäre auf. Der EU AI Act fordert strenge Datenschutzmaßnahmen, um die sichere und verantwortungsvolle Behandlung personenbezogener Daten zu gewährleisten. Unternehmen stehen vor der Herausforderung, geeignete Datenschutzmechanismen zu implementieren und die Einhaltung der Datenschutzgrundverordnung (DSGVO) sicherzustellen. Darüber hinaus müssen ethische Fragen berücksichtigt werden, um sicherzustellen, dass KI-Systeme fair und transparent sind [^16].
 
-> "Der EU AI Act fordert strenge Datenschutzmaßnahmen und die Berücksichtigung ethischer Fragen." Musch, Borrelli, and Kerrigan, 2023
+> "Der EU AI Act fordert strenge Datenschutzmaßnahmen und die Berücksichtigung ethischer Fragen." [^16]
 
 ### 3.2 Chancen
 
 #### 3.2.1 Vertrauensbildung und Akzeptanz
 
-Trotz der Herausforderungen bietet der EU AI Act auch zahlreiche Chancen. Eine der wichtigsten ist die Schaffung von Vertrauen und Akzeptanz für KI-Technologien in der Gesellschaft. Durch die strengen Vorschriften und Kontrollen können Bürger sicher sein, dass die eingesetzten KI-Systeme sicher und ethisch vertretbar sind. Dies kann die allgemeine Akzeptanz von KI erhöhen und dazu beitragen, dass KI-Technologien stärker in den Alltag integriert werden. Unternehmen, die den Anforderungen des EU AI Acts entsprechen, können dieses Vertrauen nutzen, um ihre Produkte und Dienstleistungen erfolgreicher zu vermarkten.
+Trotz der Herausforderungen bietet der EU AI Act auch zahlreiche Chancen. Eine der wichtigsten istdie Schaffung von Vertrauen und Akzeptanz für KI-Technologien in der Gesellschaft. Durch die strengen Vorschriften und Kontrollen können Bürger sicher sein, dass die eingesetzten KI-Systeme sicher und ethisch vertretbar sind. Dies kann die allgemeine Akzeptanz von KI erhöhen und dazu beitragen, dass KI-Technologien stärker in den Alltag integriert werden. Unternehmen, die den Anforderungen des EU AI Acts entsprechen, können dieses Vertrauen nutzen, um ihre Produkte und Dienstleistungen erfolgreicher zu vermarkten [^17].
 
-> "Der EU AI Act kann Vertrauen und Akzeptanz für KI-Technologien in der Gesellschaft schaffen." Musch, Borrelli, and Kerrigan, 2023
+> "Der EU AI Act kann Vertrauen und Akzeptanz für KI-Technologien in der Gesellschaft schaffen." [^17]
 
 #### 3.2.2 Förderung von Innovation und Forschung
 
-Der EU AI Act könnte auch als Katalysator für Innovation und Forschung dienen. Durch die Schaffung klarer Regelungen und Standards können Unternehmen ihre Entwicklungsprozesse besser planen und optimieren, was zu technologischen Durchbrüchen und innovativen Anwendungen führen kann. Darüber hinaus könnte der Act die Zusammenarbeit zwischen Unternehmen, Forschungseinrichtungen und Regulierungsbehörden fördern, wodurch der Austausch von Wissen und Ressourcen angeregt wird.
+Der EU AI Act könnte auch als Katalysator für Innovation und Forschung dienen. Durch die Schaffung klarer Regelungen und Standards können Unternehmen ihre Entwicklungsprozesse besser planen und optimieren, was zu technologischen Durchbrüchen und innovativen Anwendungen führen kann. Darüber hinaus könnte der Act die Zusammenarbeit zwischen Unternehmen, Forschungseinrichtungen und Regulierungsbehörden fördern, wodurch der Austausch von Wissen und Ressourcen angeregt wird [^18].
 
-> "Der EU AI Act könnte als Katalysator für Innovation und Forschung dienen." Musch, Borrelli, and Kerrigan, 2023
+> "Der EU AI Act könnte als Katalysator für Innovation und Forschung dienen." [^18]
 
 #### 3.2.3 Wettbewerbsvorteil durch Qualität und Sicherheit
 
-Unternehmen, die die Anforderungen des EU AI Acts erfüllen, können dies als Wettbewerbsvorteil nutzen. Die Einhaltung hoher Standards in Bezug auf Qualität und Sicherheit kann das Vertrauen von Kunden stärken und sich von der Konkurrenz abheben. Insbesondere in sensiblen Bereichen wie dem Gesundheitswesen, der Finanzbranche und der öffentlichen Verwaltung kann die Gewährleistung von Sicherheit und Verlässlichkeit ein entscheidendes Unterscheidungsmerkmal sein.
+Unternehmen, die die Anforderungen des EU AI Acts erfüllen, können dies als Wettbewerbsvorteil nutzen. Die Einhaltung hoher Standards in Bezug auf Qualität und Sicherheit kann das Vertrauen von Kunden stärken und sich von der Konkurrenz abheben. Insbesondere in sensiblen Bereichen wie dem Gesundheitswesen, der Finanzbranche und der öffentlichen Verwaltung kann die Gewährleistung von Sicherheit und Zuverlässigkeit ein entscheidendes Unterscheidungsmerkmal sein [^19].
 
-> "Die Einhaltung hoher Standards in Bezug auf Qualität und Sicherheit kann Unternehmen einen Wettbewerbsvorteil verschaffen." Musch, Borrelli, and Kerrigan, 2023
+> "Die Einhaltung hoher Standards in Bezug auf Qualität und Sicherheit kann Unternehmen einen Wettbewerbsvorteil verschaffen." [^19]
 
 #### 3.2.4 Nachhaltige Entwicklung und soziale Verantwortung
 
-Der EU AI Act fördert auch eine nachhaltige Entwicklung und soziale Verantwortung. Unternehmen werden ermutigt, ethische und umweltfreundliche Praktiken zu verfolgen, was zu einer gerechteren und nachhaltigeren Gesellschaft beitragen kann. Durch die Einhaltung der Vorschriften können Unternehmen nicht nur rechtliche Risiken minimieren, sondern auch einen positiven Beitrag zu den globalen Nachhaltigkeitszielen leisten. Dies kann langfristig zu einer verbesserten Markenwahrnehmung und einem stärkeren Ruf führen.
+Der EU AI Act fördert auch eine nachhaltige Entwicklung und soziale Verantwortung. Unternehmen werden ermutigt, ethische und umweltfreundliche Praktiken zu verfolgen, was zu einer gerechteren und nachhaltigeren Gesellschaft beitragen kann. Durch die Einhaltung der Vorschriften können Unternehmen nicht nur rechtliche Risiken minimieren, sondern auch einen positiven Beitrag zu den globalen Nachhaltigkeitszielen leisten. Dies kann langfristig zu einer verbesserten Markenwahrnehmung und einem stärkeren Ruf führen [^20].
 
-> "Der EU AI Act fördert eine nachhaltige Entwicklung und soziale Verantwortung." Musch, Borrelli, and Kerrigan, 2023
+> "Der EU AI Act fördert eine nachhaltige Entwicklung und soziale Verantwortung." [^20]
 
 ### 3.3 Zusammenfassung der Auswirkungen
 
-Insgesamt bringt der EU AI Act sowohl Herausforderungen als auch Chancen für die KI-Entwicklung mit sich. Während die strengen Vorschriften und Anforderungen Unternehmen vor beträchtliche Herausforderungen stellen, bieten sie gleichzeitig die Möglichkeit, Vertrauen aufzubauen und Innovationen zu fördern. Die Einhaltung der Vorschriften kann Unternehmen einen Wettbewerbsvorteil verschaffen und dazu beitragen, eine nachhaltigere und ethischere KI-Landschaft zu gestalten.
+Insgesamt bringt der EU AI Act sowohl Herausforderungen als auch Chancen für die KI-Entwicklung mit sich. Während die strengen Vorschriften und Anforderungen Unternehmen vor beträchtliche Herausforderungen stellen, bieten sie gleichzeitig die Möglichkeit, Vertrauen aufzubauen und Innovationen zu fördern. Die Einhaltung der Vorschriften kann Unternehmen einen Wettbewerbsvorteil verschaffen und dazu beitragen, eine nachhaltigere und ethischere KI-Landschaft zu schaffen.
 
 ### 3.3.2 Langfristige Perspektiven
 
-Langfristig könnte der EU AI Act die europäische KI-Landschaft positiv beeinflussen. Durch die Schaffung eines klaren und einheitlichen Rechtsrahmens können Unternehmen ihre Entwicklungsprozesse optimieren und neue technologische Durchbrüche erzielen. Dies könnte zu einer stärkeren Integration von KI in verschiedene Branchen und den Alltag führen. Darüber hinaus könnte der Act die internationale Zusammenarbeit im Bereich KI fördern und dazu beitragen, globale Standards zu etablieren.
+Langfristig könnte der EU AI Act die europäische KI-Landschaft positiv beeinflussen. Durch die Schaffung eines klaren und einheitlichen Rechtsrahmens können Unternehmen ihre Entwicklungsprozesse optimieren und neue technologische Durchbrüche erzielen. Dies könnte zu einer stärkeren Integration von KI in verschiedene Branchen und den Alltag führen. Darüber hinaus könnte der Act die internationale Zusammenarbeit im Bereich KI fördern und dazu beitragen, globale Standards zu setzen [^21].
 
-> "Langfristig könnte der EU AI Act die europäische KI-Landschaft positiv beeinflussen." Musch, Borrelli, and Kerrigan, 2023
+> "Langfristig könnte der EU AI Act die europäische KI-Landschaft positiv beeinflussen." [^21]
 
 ## 4. Regelungen für Hochrisiko-KI
 
-Der EU AI Act legt detaillierte Regelungen für Hochrisiko-KI-Systeme fest, mit dem Ziel, ihre Sicherheit und Zuverlässigkeit zu gewährleisten. Diese Regelungen umfassen spezifische Verpflichtungen für Anbieter sowie strenge Anforderungen an Transparenz und Sicherheit.
+Der EU AI Act legt detaillierte Regelungen für Hochrisiko-KI-Systeme fest, mit dem Ziel, ihre Sicherheit und Zuverlässigkeit zu gewährleisten. Diese Regelungen umfassen spezifische Verpflichtungen für Anbieter sowie strenge Anforderungen an Transparenz und Sicherheit [^22].
 
 ### 4.1 Verpflichtungen für Anbieter
 
 #### 4.1.1 Risikobewertung und -management
 
-Anbieter von Hochrisiko-KI-Systemen sind verpflichtet, umfassende Risikobewertungen durchzuführen. Dazu gehört die Analyse potenzieller Gefahren und ihrer Auswirkungen auf Nutzer und die Gesellschaft. Anbieter müssen außerdem Maßnahmen zur Risikominderung implementieren und regelmäßig überprüfen, um sicherzustellen, dass sie den aktuellen technischen und rechtlichen Anforderungen entsprechen. Detaillierte Dokumentationen über die Risikobewertungen und umgesetzten Maßnahmen sind erforderlich.
+Anbieter von Hochrisiko-KI-Systemen sind verpflichtet, umfassende Risikobewertungen durchzuführen. Dazu gehört die Analyse potenzieller Gefahren und ihrer Auswirkungen auf Nutzer und die Gesellschaft. Anbieter müssen außerdem Maßnahmen zur Risikominderung implementieren und regelmäßig überprüfen, um sicherzustellen, dass sie den aktuellen technischen und rechtlichen Anforderungen entsprechen. Detaillierte Dokumentationen über die Risikobewertungen und umgesetzten Maßnahmen sind erforderlich [^23].
 
-> "Anbieter von Hochrisiko-KI-Systemen müssen umfassende Risikobewertungen durchführen und Maßnahmen zur Risikominderung implementieren." Musch, Borrelli, and Kerrigan, 2023
+> "Anbieter von Hochrisiko-KI-Systemen müssen umfassende Risikobewertungen durchführen und Maßnahmen zur Risikominderung implementieren." [^23]
 
 #### 4.1.2 Technische Dokumentation und Konformitätsbewertung
 
-Eine weitere wichtige Verpflichtung ist die Erstellung und Pflege technischer Dokumentationen. Diese müssen alle relevanten Informationen über das KI-System enthalten, einschließlich Entwicklung, Funktionsweise und Sicherheitsmerkmale. Anbieter müssen zudem eine Konformitätsbewertung durchführen, um die Übereinstimmung ihres Systems mit den festgelegten Anforderungen zu bestätigen. Diese Bewertung kann durch interne Audits oder unabhängige Dritte erfolgen.
+Eine weitere wichtige Verpflichtung ist die Erstellung und Pflege technischer Dokumentationen. Diese müssen alle relevanten Informationen über das KI-System enthalten, einschließlich Entwicklung, Funktionsweise und Sicherheitsmerkmale. Anbieter müssen zudem eine Konformitätsbewertung durchführen, um die Übereinstimmung ihres Systems mit den festgelegten Anforderungen zu bestätigen. Diese Bewertung kann durch interne Audits oder unabhängige Dritte erfolgen [^24].
 
-> "Anbieter von Hochrisiko-KI-Systemen müssen technische Dokumentationen erstellen und eine Konformitätsbewertung durchführen." Musch, Borrelli, and Kerrigan, 2023
+> "Anbieter von Hochrisiko-KI-Systemen müssen technische Dokumentationen erstellen und eine Konformitätsbewertung durchführen." [^24]
 
 #### 4.1.3 Transparenz und Benutzerinformationen
 
-Transparenz ist ein zentraler Aspekt des EU AI Acts. Anbieter von Hochrisiko-KI-Systemen müssen sicherstellen, dass Nutzer über die Funktionsweise des Systems und mögliche Risiken informiert sind. Dazu gehören klare und verständliche Benutzerhandbücher und Informationsmaterialien. Nutzer müssen über die spezifischen Funktionen und Einschränkungen des Systems aufgeklärt werden, sowie darüber, wie sie es sicher und effektiv nutzen können.
+Transparenz ist ein zentraler Aspekt des EU AI Acts. Anbieter von Hochrisiko-KI-Systemen müssen sicherstellen, dass Nutzer über die Funktionsweise des Systems und mögliche Risiken informiert sind. Dazu gehören klare und verständliche Benutzerhandbücher und Informationsmaterialien. Nutzer müssen über die spezifischen Funktionen und Einschränkungen des Systems aufgeklärt werden, sowie darüber, wie sie es sicher und effektiv nutzen können [^25].
 
-> "Anbieter von Hochrisiko-KI-Systemen müssen sicherstellen, dass Nutzer über die Funktionsweise und mögliche Risiken informiert sind." Musch, Borrelli, and Kerrigan, 2023
+> "Anbieter von Hochrisiko-KI-Systemen müssen sicherstellen, dass Nutzer über die Funktionsweise und mögliche Risiken informiert sind." [^25]
 
 #### 4.1.4 Überwachung und Berichterstattung
 
-Anbieter von Hochrisiko-KI-Systemen sind verpflichtet, ihre Systeme kontinuierlich zu überwachen und regelmäßig Berichte über deren Leistung und Sicherheit zu erstellen. Diese Berichte müssen etwaige Abweichungen oder Sicherheitsprobleme dokumentieren und der zuständigen Aufsichtsbehörde vorgelegt werden. Bei sicherheitsrelevanten Vorfällen müssen Anbieter unverzüglich Maßnahmen ergreifen und die Nutzer sowie die Aufsichtsbehörde informieren.
+Anbieter von Hochrisiko-KI-Systemen sind verpflichtet, ihre Systeme kontinuierlich zu überwachen und regelmäßig Berichte über deren Leistung und Sicherheit zu erstellen. Diese Berichte müssen etwaige Abweichungen oder Sicherheitsprobleme dokumentieren und der zuständigen Aufsichtsbehörde vorgelegt werden. Bei sicherheitsrelevanten Vorfällen müssen Anbieter unverzüglich Maßnahmen ergreifen und die Nutzer sowie die Aufsichtsbehörde informieren [^26].
 
-> "Anbieter von Hochrisiko-KI-Systemen müssen ihre Systeme kontinuierlich überwachen und regelmäßig Berichte erstellen." Musch, Borrelli, and Kerrigan, 2023
+> "Anbieter von Hochrisiko-KI-Systemen müssen ihre Systeme kontinuierlich überwachen und regelmäßig Berichte erstellen." [^26]
 
 ### 4.2 Anforderungen an Transparenz und Sicherheit
 
 #### 4.2.1 Transparenzanforderungen
 
-Die Transparenzanforderungen des EU AI Acts stellen sicher, dass die Funktionsweise und Entscheidungsprozesse von Hochrisiko-KI-Systemen für Nutzer nachvollziehbar sind. Anbieter müssen klare und verständliche Informationen über die verwendeten Algorithmen und Daten bereitstellen. Diese Informationen sollten leicht zugänglich und verständlich präsentiert werden, um das Vertrauen der Nutzer in KI-Systeme zu stärken und ihre Akzeptanz zu erhöhen.
+Die Transparenzanforderungen des EU AI Acts stellen sicher, dass die Funktionsweise und Entscheidungsprozesse von Hochrisiko-KI-Systemen für Nutzer nachvollziehbar sind. Anbieter müssen klare und verständliche Informationen über die verwendeten Algorithmen und Daten bereitstellen. Diese Informationen sollten leicht zugänglich und verständlich präsentiert werden, um das Vertrauen der Nutzer in KI-Systeme zu stärken und ihre Akzeptanz zu erhöhen [^27].
 
-> "Die Transparenzanforderungen des EU AI Acts stellen sicher, dass die Funktionsweise und Entscheidungsprozesse von Hochrisiko-KI-Systemen für Nutzer nachvollziehbar sind." Musch, Borrelli, and Kerrigan, 2023
+> "Die Transparenzanforderungen des EU AI Acts stellen sicher, dass die Funktionsweise und Entscheidungsprozesse von Hochrisiko-KI-Systemen für Nutzer nachvollziehbar sind." [^27]
 
 #### 4.2.2 Sicherheitsanforderungen
 
-Die Sicherheitsanforderungen zielen darauf ab, die Integrität und Zuverlässigkeit von Hochrisiko-KI-Systemen zu gewährleisten. Anbieter müssen robuste Sicherheitsmaßnahmen implementieren, um physische und digitale Bedrohungen abzuwehren. Dazu gehören der Schutz vor Cyberangriffen, die regelmäßige Überprüfung und Aktualisierung der Sicherheitsprotokolle sowie der Schutz vor Manipulationen und Missbrauch.
+Die Sicherheitsanforderungen zielen darauf ab, die Integrität und Zuverlässigkeit von Hochrisiko-KI-Systemen zu gewährleisten. Anbieter müssen robuste Sicherheitsmaßnahmen implementieren, um physische und digitale Bedrohungen abzuwehren. Dazu gehören die Verschlüsselung sensibler Daten, der Schutz vor Cyberangriffen und die regelmäßige Überprüfung und Aktualisierung der Sicherheitsprotokolle. Außerdem müssen Anbieter ihre Systeme vor Manipulationen und Missbrauch schützen [^28].
 
-> "Die Sicherheitsanforderungen des EU AI Acts zielen darauf ab, die Integrität und Zuverlässigkeit von Hochrisiko-KI-Systemen zu gewährleisten." Musch, Borrelli, and Kerrigan, 2023
+> "Die Sicherheitsanforderungen des EU AI Acts zielen darauf ab, die Integrität und Zuverlässigkeit von Hochrisiko-KI-Systemen zu gewährleisten." [^28]
 
 #### 4.2.3 Datenqualität und -verwaltung
 
